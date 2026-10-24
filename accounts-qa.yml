@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Eazybytes bank related to QA Environment"
+  contactDetails:
+    name: "QA man"
+    email: "laratecsys@gmail.com"
+  onCallSupport:
+    - (666) 99102-1102
+    - (666) 99102-1102

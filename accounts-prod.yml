@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod API"
   contactDetails:
     name: "Tiago"
-    email: "laratecsys@gmail.com"
+    email: "{cipher}da770851b4335f7081d1d27b26fe352536999d49ed5bd1c1af378eabb5f49f0f67de5dacb22f2dd551a804d30097a0f1"
   onCallSupport:
     - (41) 99102-1102
     - (48) 99102-1102
